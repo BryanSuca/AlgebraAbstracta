@@ -10,7 +10,6 @@ PRIMERA PREGUNTA: El inverso multiplicativo
 SEGUNDA PREGUNTA: Cifrado Afin
 
   Para realizar el proyecto reutilize anteriores trabajos como euclides extendido para ayudar a cifrar y descifrar utilizando el metodo afin
- --------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
   */IMPORTANTE: para 1a y 1b, el conjunto de palabras es de 27 segun el alfabeto contando con la ñ, ya que c++ no permite utilizar el caracter ñ lo reemplaze por '#',    Ñ=#
   
