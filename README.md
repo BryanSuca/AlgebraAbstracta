@@ -23,12 +23,15 @@ SEGUNDA PREGUNTA: Cifrado Afin
   El lenguaje de programacion utilizado es c++, al momento de ejecutar el programa te pedira que eligas 2 opciones
   
   Escoge si quieres descifrar o cifrar la palabra
+  
   1.- Cifrar
+  
   2.- Descrifrar
   
   luego elegiras si quieres descifrar o cifrar y se utilizara las palabras dejadas en el trabajo dependiendo la opcion escogida
   
   Cifrar elementalmiqueridowatson
+  
   Descifrar okhfsnkfnwfcwjhsnchqywfswf
   
   luego el programa te pedira las claves en esta ocasion se tendra que digitar a = 4 , b = 7; esto ayudara a descrifrar y cifrar los textos y dara la respuesta.
@@ -36,5 +39,7 @@ SEGUNDA PREGUNTA: Cifrado Afin
   1b:------------------------------------------------------------------------------------------------------------------------------------------------
   
   Para descifrar: slbcmvrbshzbt#nsrqvvmszbvh#nbvrqvlalhzbt#nsrqvwqaxlzw#naqfqv, utilize el programa creado para encontrar la respuesta.
+  
   y las claves son:
+  
   a = 23 y b = 17
