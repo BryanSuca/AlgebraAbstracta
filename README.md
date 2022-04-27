@@ -1,13 +1,13 @@
 # AlgebraAbstracta
 
-Primera pregunta: El inverso multiplicativo
+PRIMERA PREGUNTA: El inverso multiplicativo
 
   EL lenguaje de programacion utilizado es c++, al momento de ejecutar te pedira a y luego b.
   Si b es un numero negativo el programa terminara.
   Si el inverso multiplicativo no existe el programa terminara
   El programa esta comentando para su explicacion
 
-Segunda pregunta: Cifrado Afin
+SEGUNDA PREGUNTA: Cifrado Afin
 
   Para realizar el proyecto reutilize anteriores trabajos como euclides extendido para ayudar a cifrar y descifrar utilizando el metodo afin
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
