@@ -13,6 +13,7 @@ Segunda pregunta: Cifrado Afin
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
   */IMPORTANTE: para 1a y 1b, el conjunto de palabras es de 27 segun el alfabeto contando con la ñ, ya que c++ no permite utilizar el caracter ñ lo reemplaze por '#',    Ñ=#
+  
   */IMPORTANTE: El programa solo funcionara con letras minusculas, asi que al final del programa deje comentando las palabras indicadas para cifrar y descifrar en minicuslas tanto para 1a y 1b
   
   1a:----------------------------------------------------------------------------------------------------------------------------------------- 
